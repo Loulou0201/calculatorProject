@@ -1,0 +1,71 @@
+h1 { 
+        text-align: center;
+        font-weight: bold;
+        margin: 0%;
+        display: inline-block;
+        background-color: #3d0b87;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+    header {
+
+        color: rgb(8, 1, 41);
+        text-align: center;
+        padding: 5px ;
+
+
+    }
+
+
+#math{
+   font-size: xx-large;
+   background-color: white;
+    color: rgb(15, 27, 165);
+    padding: 15px;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+}
+ span {
+    font-size:20px;
+}
+button:hover{
+    background-color: #cc6470;
+}
+section{font-size:x-small;
+    background-color: grey;
+    margin: 5px;
+}
+header>main{
+    padding-block: 3px;
+}
+
+main{
+
+display:flex;
+justify-content: center;
+align-items: center;
+height: calc(50vh - 50px);
+margin-top: 100px;
+}
+
+button {
+    width: 60px;
+    height: 40px;
+    font-size: 20px;
+    margin: 10px;
+    border: #9ba18e;
+    border-radius: 10px;
+    background-color: black;
+    cursor: pointer;
+    color: #21a04b;
+    border-style:inset;
+
+}
+#display {
+    width: 100%;
+    height: 15px;
+    margin-bottom: 5px;
+    font-size: 1.5rem;
+}
